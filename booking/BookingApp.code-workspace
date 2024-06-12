@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "BookingApp",
+			"path": "../../BookingApp"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../pyython"
+		},
+		{
+			"path": "../../Aman"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "full stack course"
+	}
+}
